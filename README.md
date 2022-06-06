@@ -5,9 +5,9 @@ I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in
 <!-- ![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eboves&hide=contribs,prs) -->
 
 ## Skills & Experience
-Skills: HTML / CSS / JS / Python
+* 💻 HTML / CSS / JS / Python
 
-- I’m currently learning React JS 
+- I’m currently learning ⚛ React JS 
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/https://github.com/eboves)   -->
