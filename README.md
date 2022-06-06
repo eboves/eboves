@@ -1,6 +1,4 @@
 ### Hi there 👋, My name is Elvis Boves
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://eboves.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in Technology. I Like to build minimalistic applications that makes the user experience as simple as possible.
 
