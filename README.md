@@ -7,7 +7,7 @@ Skills: HTML / CSS / JS / Python
 - I’m currently learning React JS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/eboves)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/https://github.com/eboves)  
 
 
 
