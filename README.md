@@ -4,7 +4,6 @@ I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in
 
 Skills: HTML / CSS / JS / Python
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React JS 
 
 
