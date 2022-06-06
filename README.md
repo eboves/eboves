@@ -1,9 +1,10 @@
-### Hi there 👋, My name is Elvis Boves
+### Hi there 👋, I'm Elvis Boves
 
 I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in Technology. I Like to build minimalistic applications that makes the user experience as simple as possible.
 
-![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eboves&hide=contribs,prs)
+<!-- ![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eboves&hide=contribs,prs) -->
 
+## Skills & Experience
 Skills: HTML / CSS / JS / Python
 
 - I’m currently learning React JS 
