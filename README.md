@@ -6,7 +6,7 @@ I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in
 
 ## Skills & Experience
 
-* 💻 HTML / CSS / JS / Python
+* 💻 HTML / CSS / JS / Python / Java
 
 - I’m currently learning ⚛ React JS 
 
