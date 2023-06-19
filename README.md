@@ -8,7 +8,7 @@ I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in
 
 * 💻 HTML / CSS / JS / Python / Java
 
-- I’m currently learning ⚛ React JS 
+- I’m currently learning ⚛ PYTHON 
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/https://github.com/eboves)   -->
