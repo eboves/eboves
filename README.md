@@ -6,9 +6,9 @@ I am a self-taught Front-End Developer. Graduated as a Mechanical Engineering in
 
 ## Skills & Experience
 
-* 💻 HTML / CSS / JS / Python / Java
+* 💻 HTML / CSS / JS / Python 
 
-- I’m currently learning FRONT-END 
+- I’m currently learning PYTHON 
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/https://github.com/eboves)   -->
